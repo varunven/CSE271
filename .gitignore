@@ -1,0 +1,11 @@
+HWs/*
+Midterm1/*
+Final/*
+skeletonProject/*
+*.zip
+*.qdz
+*.exe
+lab*/*
+!lab*/*.sv
+Lab1_files/*
+Lab1_files - a/*
